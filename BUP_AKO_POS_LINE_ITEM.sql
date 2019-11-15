@@ -1,8 +1,8 @@
----------------------------
---New TABLE
+﻿---------------------------
+--New TABLE -Wilco $version$
 --BUP_AKO_POS_LINE_ITEM
 ---------------------------
-  CREATE TABLE "RPT_VIEW_USER_RIS"."BUP_AKO_POS_LINE_ITEM" 
+  CREATE TABLE "RPT_VIEW_USER_RIS"."BUP_AKO_POS_LINE_ITEM"
    (	"BUP_CODE_SELLER" VARCHAR2(3 CHAR),
 	"BUP_SUBCODE_SELLER" VARCHAR2(1 CHAR),
 	"BUP_CODE_OWNER" VARCHAR2(3 CHAR),
