@@ -1,5 +1,5 @@
 ﻿---------------------------
---New TABLE -Wilco $version$
+--New TABLE -Wilco $WCREV$
 --BUP_AKO_POS_LINE_ITEM
 ---------------------------
   CREATE TABLE "RPT_VIEW_USER_RIS"."BUP_AKO_POS_LINE_ITEM"
