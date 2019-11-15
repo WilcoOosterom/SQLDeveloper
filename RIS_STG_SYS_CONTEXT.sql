@@ -1,0 +1,10 @@
+---------------------------
+--New TABLE
+--RIS_STG_SYS_CONTEXT
+---------------------------
+  CREATE TABLE "RPT_VIEW_USER_RIS"."RIS_STG_SYS_CONTEXT" 
+   (	"PARAMETER" VARCHAR2(21),
+	"VALUE" VARCHAR2(256),
+	"DESCRIPTION" VARCHAR2(134),
+	"USERNAME" VARCHAR2(30)
+   );
